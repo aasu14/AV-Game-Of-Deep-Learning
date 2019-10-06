@@ -47,4 +47,4 @@ Public leaderboard is based on randomly selected 30% of the test images, while p
 # Leaderboard
 
 * **[Public LB](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/lb)** : **160th/447 Rank**
-* **[Private LB](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/pvt_lb)** : **146th/447 Rank**
+* **[Private LB](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/pvt_lb)** : **140th/447 Rank**
